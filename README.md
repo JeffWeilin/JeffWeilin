@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computational data science**
 
-- 📫 How to reach me **wyan9636@uni.sydney.edu.au**
+- 📫 How to reach me **freakparties98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
