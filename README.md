@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffweilin&label=Profile%20views&color=0e75b6&style=flat" alt="jeffweilin" /> </p>
 
-- 🔭 I’m currently Study in **University of Sydney**
+- 🔭 I’m Studied in **University of Sydney**
 
-- 🌱 I’m currently learning **Computational data science**
+- 🌱 Learning **Computational data science**
 
 - 📫 How to reach me **freakparties98@gmail.com**
 
